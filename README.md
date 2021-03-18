@@ -1,4 +1,4 @@
-# nanogram-solver
-Solver for nanogram puzzles
+# nonogram-solver
+Solver for nonogram puzzles
 
 in progress...

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/nanogram-solver.iml" filepath="$PROJECT_DIR$/nanogram-solver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nonogram-solver.iml" filepath="$PROJECT_DIR$/nonogram-solver.iml" />
     </modules>
   </component>
 </project>
