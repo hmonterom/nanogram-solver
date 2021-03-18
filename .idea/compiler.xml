@@ -9,5 +9,8 @@
         <module name="nanogram-solver" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nanogram-solver" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
